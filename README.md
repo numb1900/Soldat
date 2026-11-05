@@ -226,4 +226,4 @@ Soldat is offered as a full free version with all features and updates included.
 Take action now and dive into the thrilling world of Soldat! Download your free copy today!
 
 ---
-**Last updated:** 2026-11-05 15:51:46 UTC
+**Last updated:** 2026-11-05 21:38:05 UTC
